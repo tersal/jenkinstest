@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 # python env
 .env
+Dockerfile
